@@ -1,0 +1,58 @@
+body{
+    margin:35px 0px 0px 35px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.box{    
+    width: 70px;
+    height: 20px;   
+    float: left;
+    
+}
+.floatRight{
+    float: right;
+}
+.textClear{
+    text-decoration: none;
+}
+.appButton{
+    width: 50px;
+    height: 50px;
+}
+header{
+    font-size: 14px;
+}
+.logo{
+    margin:100px 150px 200px 570px;
+}
+.input{
+   padding: 0px 250px 0px 250px;
+    
+}
+.searchArea{
+    margin-top: 20px;
+    text-align: center;
+}
+.searchBar{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 550px;  
+    border-radius:20px;    
+    border: 2px solid #dfe1e5;
+    
+}
+.container{
+    height: 200px;
+}
+.searchContent{
+    width: 480px;
+
+}
+.btn{
+    margin-top:20px;
+    margin-right:10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    height: 36px;
+    border:1px solid #f2f2f2; 
+    border-radius: 4.5px;
+}
