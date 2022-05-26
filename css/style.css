@@ -56,3 +56,23 @@ header{
     border:1px solid #f2f2f2; 
     border-radius: 4.5px;
 }
+.searchBtn{
+    position: relative;
+    width: 20px;
+    bottom: 42px;
+    left: 295px;
+}
+.footer{
+    height: 30px;
+    /* background-color: red; */
+    margin-right: 20px;
+    margin-top: 447px;
+    font-size: 14px;
+    background-color: #dfe1e5;
+}
+.bottomBox{
+    width: 100px;
+    height: 20px;
+    float: left;
+    background-color: #dfe1e5;
+}
